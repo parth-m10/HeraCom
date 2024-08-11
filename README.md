@@ -1,2 +1,2 @@
 # HeraCom
-A cross platform ,essaging service application
+A cross platform messaging service application
